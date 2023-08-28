@@ -18,17 +18,17 @@ The Frontend repository can be found [>>>here<<<](https://github.com/ccnuxuji/ec
 
 ## Feature Lists
 
-1. Sign up, log in, and demo user
-   ![signup-login](./images/signup-login.gif)
+1. Log in, and demo user
+   ![signup-login](./images/login.png)
 
 2. Product Catalog:
-   ![stock-buy-sell](./images/stock-buy-sell.gif)
+   ![stock-buy-sell](./images/products.png)
 
 3. Search and Filters:
-   ![add-to-watchlist](./images/add-to-watchlist.gif)
+   ![add-to-watchlist](./images/search.png)
 
 4. Shopping Cart:
-   ![search-stock](./images/search-stock.gif)
+   ![search-stock](./images/shoppingcart.png)
 
 ## Getting started
 1. Clone this repository:
